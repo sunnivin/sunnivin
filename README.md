@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a physicist, currently working as a research software engineer at [The Section for Meteorology and Oceanography (MetOs)](https://www.mn.uio.no/geo/english/about/organisation/metos/) at the University of Oslo.  
+
+- 🌱 I’m currently learning how to contribute to the [Earth System Community Modeling Portal](https://github.com/ESCOMP)
+- 😄 Pronouns: she/her/hers
+
 <!--
 **sunnivin/sunnivin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
