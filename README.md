@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I'm a physicist, currently working as a research software engineer at [The Section for Meteorology and Oceanography (MetOs)](https://www.mn.uio.no/geo/english/about/organisation/metos/) at the University of Oslo.  
+I'm a physicist, interested in solving real world problems with scientific programming.
+
+😄 Pronouns: she/her/hers
+
+<!--
+currently working as a research software engineer at [The Section for Meteorology and Oceanography (MetOs)](https://www.mn.uio.no/geo/english/about/organisation/metos/) at the University of Oslo.  
 
 - 🌱 I’m currently learning how to contribute to the [Earth System Community Modeling Portal](https://github.com/ESCOMP)
 - 😄 Pronouns: she/her/hers
